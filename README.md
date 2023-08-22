@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MinyoungHer
 - 👀 I’m interested in machine learning and Statistics.
-- 🌱 I’m currently learning deep learning technique especially in NLP
+- 🌱 I’m currently learning deep learning techniques especially in NLP
 - 📫 How to reach me ... chher2@naver.com
 
 <!---
