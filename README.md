@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MinyoungHer
-- 👀 I’m interested in machine learning and Statistics.
+- 👀 I’m interested in data danalysis.
 - 🌱 I’m currently learning deep learning techniques especially in NLP
 - 📫 How to reach me ... chher2@naver.com
 
